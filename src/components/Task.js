@@ -4,7 +4,7 @@ export const Task = ({nameTask}) => {
     return(
         <div className="task">
             <span>{nameTask}</span>
-            <span>✔</span>
+            <button className="button">✔</button>
         </div>
     )
 }
