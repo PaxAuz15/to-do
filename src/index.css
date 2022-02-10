@@ -4,6 +4,10 @@
     /* margin: 0; */
 }
 
+.title {
+    text-align: center;
+}
+
 .task {
     display: flex;
     justify-content: space-between;
@@ -12,4 +16,9 @@
     border-radius: 10px;
     padding: 10px;
     margin:10px
+}
+
+.button {
+    color: green;
+    background-color: rgb(182, 197, 183);
 }
