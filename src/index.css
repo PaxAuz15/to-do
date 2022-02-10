@@ -18,7 +18,12 @@
     margin:10px
 }
 
-.button {
+.done {
     color: green;
     background-color: rgb(182, 197, 183);
+}
+
+.not-finished{
+    color: red;
+    background-color: rgb(255, 255, 255);
 }
